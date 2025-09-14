@@ -1,9 +1,28 @@
-- 👋 Hi, I’m @EMCSquare. Erniel Caalim in true name
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on Web Development projects for starter
-- 📫 How to reach me ...
-  You can reach me at my Socials
+# 👋 Hi, I’m Erniel Caalim (@EMCSquare)
+
+## 🚀 About Me
+- 👀 Passionate about **Web Development**  
+- 🌱 Currently learning the **MERN Stack (MongoDB, Express.js, React, Node.js)**  
+- 💡 Exploring **frontend development** and eager to grow my skills  
+- 💞️ Open to collaborate on **beginner-friendly Web Development projects**
+
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind  
+- **Backend:** Node.js, Express.js, Socket.io  
+- **Database:** MongoDB  
+- **Other Tools:** Git, GitHub, Gitlab, Jira, VS Code, Figma  
+
+---
+
+## 📊 GitHub Stats
+![EMCSquare's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMCSquare12&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMCSquare12&layout=compact&theme=radical)
+
+---
+
+✨ *Always learning, always building.*  
   
   
 
