@@ -14,12 +14,7 @@
 - **Other Tools:** Git, GitHub, Gitlab, Jira, VS Code, Figma  
 
 ---
-
-## 📊 GitHub Stats
-![EMCSquare's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMCSquare12&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMCSquare12&layout=compact&theme=radical)
-
 ---
 
 ✨ *Always learning, always building.*  
